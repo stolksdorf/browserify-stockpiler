@@ -1,0 +1,1 @@
+module.exports = function(){ return {client : window.config}};

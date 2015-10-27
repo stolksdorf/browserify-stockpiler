@@ -1,0 +1,27 @@
+{
+  "name": "browserify-stockpiler",
+  "version": "1.0.0",
+  "description": "Browserify version of Stockpiler",
+  "browser": "clientShim.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stolksdorf/browserify-stockpiler.git"
+  },
+  "keywords": [
+    "browserify",
+    "stockpiler"
+  ],
+  "author": "stolksdorf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stolksdorf/browserify-stockpiler/issues"
+  },
+  "homepage": "https://github.com/stolksdorf/browserify-stockpiler#readme",
+  "dependencies": {
+    "stockpiler": "^2.0.1"
+  }
+}
